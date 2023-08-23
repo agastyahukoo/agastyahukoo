@@ -8,6 +8,7 @@ I'm currently a student passionate about software development and always ready t
 
 ## 📖 What I am currently learning / improving on
 - C# and WPF.
+- My App CodeCraft
 
 ## 🎯 What I am looking to collaborate on
 - Any C, Java or Python projects.
