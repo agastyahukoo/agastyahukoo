@@ -7,8 +7,8 @@ I'm currently a student passionate about software development and always ready t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agastya-hukoo&theme=dark)
 
 ## 📖 What I am currently learning / improving on
-- C# and WPF.
-- My App CodeCraft, I plan on switching from C# (.NET) to Java and improve functionality.
+- Making my fundamentals in C, C++, Java and Python strong.
+- My App CodeCraft, I plan on switching from C# (.NET) to Java and improve core functionality and speed.
 
 ## 🎯 What I am looking to collaborate on
 - Any C, Java or Python projects.
