@@ -10,9 +10,6 @@ I'm currently a student passionate about software development and always ready t
 - Learning Goals: Currently focusing on strengthening my skills in C, C++, Python, and Java.
 - Beyond Coding: I enjoy sharing knowledge through my YouTube channel with Java tutorials.
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agastya-hukoo&theme=dark)
-
 ## 📖 What I am currently learning / improving on
 - Making my fundamentals in C, C++, Java and Python strong.
 - My App CodeCraft, I plan on switching from C# (.NET) to Java and improve core functionality and speed.
@@ -21,6 +18,5 @@ I'm currently a student passionate about software development and always ready t
 - Any C, Java or Python projects.
 
 ## 📫 How to reach me
-
 
 Feel free to reach out to me for collaborations or just for some interesting discussions. Don't just follow me, Say Hi! 😊
