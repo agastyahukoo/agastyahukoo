@@ -5,10 +5,10 @@ I'm currently a student passionate about software development and always ready t
 
 ## 🚀 About Me
 
-Project Highlight: Carbon (formerly CodeCraft)
-A streamlined application for real-time HTML editing, featuring syntax highlighting, auto-complete, instant HTML rendering, and customizable themes. Designed to enhance the coding experience.
-Learning Goals: Currently focusing on strengthening my skills in C, C++, Python, and Java.
-Beyond Coding: I enjoy sharing knowledge through my YouTube channel with Java tutorials.
+- Project Highlight: Carbon (formerly CodeCraft)
+  A streamlined application for real-time HTML editing, featuring syntax highlighting, auto-complete, instant HTML rendering, and customizable themes. Designed to enhance the coding experience.
+- Learning Goals: Currently focusing on strengthening my skills in C, C++, Python, and Java.
+- Beyond Coding: I enjoy sharing knowledge through my YouTube channel with Java tutorials.
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agastya-hukoo&theme=dark)
