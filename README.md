@@ -12,7 +12,7 @@ I'm currently a student passionate about software development and always ready t
 
 ## 📖 What I am currently learning / improving on
 - Making my fundamentals in C, C++, Java and Python strong.
-- My App CodeCraft, I plan on switching from C# (.NET) to Java and improve core functionality and speed.
+- My App Carbon, I plan on refreshing the entire app, improving core functionality, speed and efficiency. 
 
 ## 🎯 What I am looking to collaborate on
 - Any C, Java or Python projects.
