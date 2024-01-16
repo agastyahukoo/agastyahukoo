@@ -14,7 +14,7 @@ I'm currently a student passionate about software development and always ready t
 - Making my fundamentals in C, C++, Java and Python strong.
 - My App Carbon, I plan on refreshing the entire app, improving core functionality, speed and efficiency.
 
-## 🚀 My Projects
+## My Projects
 
 - **Carbon:** A user-friendly IDE for Frontend Development with real-time HTML editing and customizable themes. Ideal for enhancing the HTML coding experience.
 
