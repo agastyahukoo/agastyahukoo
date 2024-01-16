@@ -13,9 +13,12 @@ I'm currently a student passionate about software development and always ready t
 ## 📖 What I am currently learning / improving on
 - Making my fundamentals in C, C++, Java and Python strong.
 - My App Carbon, I plan on refreshing the entire app, improving core functionality, speed and efficiency.
-- # Project:
-- Carbon: A beginner friendly IDE specifically made for Frontend Development.
-- Radon: A productivity tool for desktop automation.
+
+## 🚀 My Projects
+
+- **Carbon:** A user-friendly IDE for Frontend Development with real-time HTML editing and customizable themes. Ideal for enhancing the HTML coding experience.
+
+- **Radon:** An open-source, automated mouse clicker for Windows, designed to streamline repetitive tasks with customizable settings and a simple interface.
 
 ## 🎯 What I am looking to collaborate on
 - Any C, Java or Python projects.
