@@ -21,7 +21,7 @@ I'm currently a student passionate about software development and always ready t
 - **Radon:** An open-source, automated mouse clicker for Windows, designed to streamline repetitive tasks with customizable settings and a simple interface.
 
 ## 🎯 What I am looking to collaborate on
-- Any C, Java or Python projects.
+- Any C, Java or Python projects!!
 
 ## 📫 How to reach me
 
