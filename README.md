@@ -7,12 +7,11 @@ I'm currently a student passionate about software development and always ready t
 
 - Project Highlight: Carbon (formerly CodeCraft)
   A streamlined application for real-time HTML editing, featuring syntax highlighting, auto-complete, instant HTML rendering, and customizable themes. Designed to enhance the coding experience.
-- Learning Goals: Currently focusing on strengthening my skills in C, C++, Python, and Java.
+- Learning Goals: Currently focusing on strengthening my skills in Java.
 - Beyond Coding: I enjoy sharing knowledge through my YouTube channel with Java tutorials.
 
 ## 📖 What I am currently learning / improving on
-- Making my fundamentals in C, C++, Java and Python strong.
-- My App Carbon, I plan on refreshing the entire app, improving core functionality, speed and efficiency.
+- Making my fundamentals in Java strong.
 
 ## My Projects
 
@@ -21,7 +20,7 @@ I'm currently a student passionate about software development and always ready t
 - **Radon:** An open-source, automated mouse clicker for Windows, designed to streamline repetitive tasks with customizable settings and a simple interface.
 
 ## 🎯 What I am looking to collaborate on
-- Any C, Java or Python projects!!
+- Any Java projects!!
 
 ## 📫 How to reach me
 
