@@ -5,7 +5,7 @@
   <img src="https://avatars.githubusercontent.com/u/136306593?v=4" width="200" height="200" style="border-radius:50%">
 </p>
 
-## 🌌 About Me
+## 📖 About Me
 <p align="justify">
   Hello world! I'm Agastya, a high school student with a profound passion for programming and an ambition to excel in competitive programming. My journey began with Java and has since expanded to mastering C# and diving deep into the realms of front-end development. 
 
@@ -15,7 +15,6 @@
 
   As I navigate through my high school years, I'm fueled by the dream of making a mark in the tech world. Every project I undertake is a step towards that goal, a piece of my journey in coding. Join me in this adventure, where creativity meets technology, and every line of code tells a story.
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=agastyahukoo&show_icons=true&theme=gotham" alt="Agastya's GitHub Stats" />
@@ -32,50 +31,48 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
-## 🌠 Projects Spotlight
+## 💡 Featured Projects
 <details open>
-  <summary><b>🎨 Carbon - Frontend IDE</b></summary>
+  <summary><b>🚀 Carbon - The Frontend Innovator</b></summary>
   <p>
-    A sleek IDE tailored for Frontend Development. Features like real-time HTML editing and theme customization make it a go-to tool for developers.
+    Carbon redefines the frontend development experience. It's an intuitive IDE offering real-time HTML editing and a host of customizable themes, catering to both novice and seasoned developers.
   </p>
 </details>
 <details>
-  <summary><b>🔧 Radon - Automated Clicker</b></summary>
+  <summary><b>🤖 Radon - Automation Master</b></summary>
   <p>
-    This open-source tool simplifies repetitive tasks on Windows with its user-friendly interface and customizable click settings.
+    Radon is a versatile, open-source automated mouse clicker for Windows. It boasts a user-friendly interface, customizable settings, and is designed to streamline and automate repetitive tasks efficiently.
   </p>
 </details>
 
-## 💻 Work Experience Highlight
+## 💼 Professional Experience
 ### Front End Web Developer (3 months)
-<blockquote>
-  - As a Front End Web Developer, I transformed web interfaces into responsive and dynamic experiences, boosting user engagement significantly.
-  - Leveraged HTML5, CSS3, JavaScript, and React.js to build and maintain cutting-edge web applications.
-  - Played a key role in SEO optimization, contributing to a significant increase in web traffic and user interaction.
-  - Collaborated closely with the marketing team to produce high-quality digital ad materials, maintaining brand integrity and consistency.
-</blockquote>
+- Transformed web interfaces into responsive and dynamic experiences, enhancing user engagement.
+- Utilized HTML5, CSS3, JavaScript, and React.js to build and maintain cutting-edge web applications.
+- Instrumental in SEO optimization, leading to a significant increase in web traffic and user interaction.
+- Worked closely with the marketing team to develop high-quality digital ad materials, ensuring brand integrity and consistency.
 
 ## 📚 Educational Journey
 <p align="center">
-  📖 Delving into advanced computer science topics in high school. Passionate about learning and applying new technologies in real-world scenarios.
+  📖 Currently exploring advanced computer science topics in high school, with a passion for applying new technologies to real-world challenges.
 </p>
 
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://youtube.com/@Agastya-Hukoo">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="margin-bottom: -6px;" />
   </a>
   <a href="https://twitter.com/agastyahukoo">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: -6px;" />
   </a>
   <a href="https://instagram.com/agastyahukoo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: -6px;" />
   </a>
   <a href="https://leetcode.com/agastyahukoo">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="margin-bottom: -6px;" />
   </a>
   <a href="https://www.codechef.com/users/yourusername">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" style="margin-bottom: -6px;" />
   </a>
 </p>
 
