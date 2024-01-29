@@ -1,27 +1,86 @@
-# Hello there, I'm Agastya 👋
-I'm currently a student passionate about software development and always ready to learn something new. Below are a list of technologies I'm familiar with:
+<h1 align="center">🚀 Hi, I'm Agastya!</h1>
+<h3 align="center">Aspiring Competitive Programmer | Java & C# Enthusiast | Front-End Developer</h3>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://your-profile-picture-url.png" width="200" height="200" style="border-radius:50%">
+</p>
 
-## 🚀 About Me
+## 🌌 About Me
+<p align="justify">
+  Hello world! I'm Agastya, a high school student with a profound passion for programming and an ambition to excel in competitive programming. My journey began with Java and has since expanded to mastering C# and diving deep into the realms of front-end development. 
 
-- Project Highlight: Carbon (formerly CodeCraft)
-  A streamlined application for real-time HTML editing, featuring syntax highlighting, auto-complete, instant HTML rendering, and customizable themes. Designed to enhance the coding experience.
-- Learning Goals: Currently focusing on strengthening my skills in Java.
-- Beyond Coding: I enjoy sharing knowledge through my YouTube channel with Java tutorials.
+  What drives me? It's the thrill of solving complex problems, the joy of bringing ideas to life through code, and a relentless quest for knowledge. As a young coder, I am constantly exploring new technologies and techniques, aiming to blend the art of programming with practical solutions. 
 
-## 📖 What I am currently learning / improving on
-- Making my fundamentals in Java strong.
+  My adventure in coding is more than just writing efficient algorithms; it’s about creating impactful experiences, whether it’s through a user-friendly IDE or an automated tool that simplifies daily tasks. I believe in writing code that not only works but also innovates and inspires.
 
-## My Projects
+  As I navigate through my high school years, I'm fueled by the dream of making a mark in the tech world. Every project I undertake is a step towards that goal, a piece of my journey in coding. Join me in this adventure, where creativity meets technology, and every line of code tells a story.
+</p>
 
-- **Carbon:** A user-friendly IDE for Frontend Development with real-time HTML editing and customizable themes. Ideal for enhancing the HTML coding experience.
 
-- **Radon:** An open-source, automated mouse clicker for Windows, designed to streamline repetitive tasks with customizable settings and a simple interface.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gotham" alt="Agastya's GitHub Stats" />
+</p>
 
-## 🎯 What I am looking to collaborate on
-- Any Java projects!!
+## 🛠 Skills Showcase
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
 
-## 📫 How to reach me
+## 🌠 Projects Spotlight
+<details open>
+  <summary><b>🎨 Carbon - Frontend IDE</b></summary>
+  <p>
+    A sleek IDE tailored for Frontend Development. Features like real-time HTML editing and theme customization make it a go-to tool for developers.
+  </p>
+</details>
+<details>
+  <summary><b>🔧 Radon - Automated Clicker</b></summary>
+  <p>
+    This open-source tool simplifies repetitive tasks on Windows with its user-friendly interface and customizable click settings.
+  </p>
+</details>
 
-Feel free to reach out to me for collaborations or just for some interesting discussions. Don't just follow me, Say Hi! 😊
+## 💻 Work Experience Highlight
+### Front End Web Developer (3 months)
+<blockquote>
+  - As a Front End Web Developer, I transformed web interfaces into responsive and dynamic experiences, boosting user engagement significantly.
+  - Leveraged HTML5, CSS3, JavaScript, and React.js to build and maintain cutting-edge web applications.
+  - Played a key role in SEO optimization, contributing to a significant increase in web traffic and user interaction.
+  - Collaborated closely with the marketing team to produce high-quality digital ad materials, maintaining brand integrity and consistency.
+</blockquote>
+
+## 📚 Educational Journey
+<p align="center">
+  📖 Delving into advanced computer science topics in high school. Passionate about learning and applying new technologies in real-world scenarios.
+</p>
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://youtube.com/yourusername">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/yourusername">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="Agastya's GitHub Streak" />
+</p>
+
+<h4 align="center">"Coding with Passion, Innovating for Tomorrow"</h4>
