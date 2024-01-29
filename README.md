@@ -7,7 +7,7 @@
 
 ## 📖 About Me
 <p align="justify">
-  Hello world! I'm Agastya, a high school student with a profound passion for programming and an ambition to excel in competitive programming. My journey began with Java and has since expanded to mastering C# and diving deep into the realms of front-end development. 
+  Hello world! I'm Agastya, a high school student with a profound passion for programming and an ambition to excel in competitive programming. My journey began with Java and has since expanded to mastering C# and diving deep into the world of front-end development. 
 
   What drives me? It's the thrill of solving complex problems, the joy of bringing ideas to life through code, and a relentless quest for knowledge. As a young coder, I am constantly exploring new technologies and techniques, aiming to blend the art of programming with practical solutions. 
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agastyahukoo&show_icons=true&theme=gotham" alt="Agastya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agastyahukoo&show_icons=true&theme=github_dark" alt="Agastya's GitHub Stats" />
 </p>
 
 ## 🛠 Skills Showcase
@@ -32,7 +32,7 @@
 </p>
 
 ## 💡 Featured Projects
-<details open>
+<details>
   <summary><b>🚀 Carbon - The Frontend Innovator</b></summary>
   <p>
     Carbon redefines the frontend development experience. It's an intuitive IDE offering real-time HTML editing and a host of customizable themes, catering to both novice and seasoned developers.
