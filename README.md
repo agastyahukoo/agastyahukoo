@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Competitive Programmer | Java & C# Enthusiast | Front-End Developer</h3>
 
 <p align="center">
-  <img src="https://your-profile-picture-url.png" width="200" height="200" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/136306593?v=4" width="200" height="200" style="border-radius:50%">
 </p>
 
 ## 🌌 About Me
