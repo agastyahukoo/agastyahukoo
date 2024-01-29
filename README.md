@@ -54,7 +54,7 @@
 
 ## 📚 Educational Journey
 <p align="center">
-  📖 Currently exploring advanced computer science topics in high school, with a passion for applying new technologies to real-world challenges.
+  📖 Currently exploring computer science topics in high school, mainly Data Structures in Java.
 </p>
 
 ## 🌐 Connect with Me
