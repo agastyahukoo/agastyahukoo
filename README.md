@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gotham" alt="Agastya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agastyahukoo&show_icons=true&theme=gotham" alt="Agastya's GitHub Stats" />
 </p>
 
 ## 🛠 Skills Showcase
@@ -62,16 +62,16 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://youtube.com/yourusername">
+  <a href="https://youtube.com/@Agastya-Hukoo">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/agastyahukoo">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/agastyahukoo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/yourusername">
+  <a href="https://leetcode.com/agastyahukoo">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/yourusername">
@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="Agastya's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agastyahukoo&theme=dark" alt="Agastya's GitHub Streak" />
 </p>
 
 <h4 align="center">"Coding with Passion, Innovating for Tomorrow"</h4>
