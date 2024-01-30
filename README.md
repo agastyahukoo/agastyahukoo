@@ -79,20 +79,18 @@
   📖 Currently exploring computer science topics in high school, mainly Data Structures in Java.
 </div>
 
+<br>
 
-
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=agastyahukoo&show_icons=true&theme=github_dark" alt="Agastya's GitHub Stats" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=agastyahukoo&theme=dark" alt="Agastya's GitHub Streak" />
     </td>
   </tr>
 </table>
-
-
 
 <div align="center">
   <h4>"Coding with Passion, Innovating for Tomorrow"</h4>
