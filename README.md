@@ -17,7 +17,7 @@
   <a href="https://leetcode.com/agastyahukoo">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/yourusername">
+  <a href="https://www.codechef.com/users/agastya_hukoo">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
