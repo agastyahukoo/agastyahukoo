@@ -25,12 +25,10 @@
 ## About Me
 
 <div align="justify">
-  Hello, I'm Agastya, a high school student with a profound passion for programming and an ambition to excel in competitive programming. My journey began with Java and has since expanded to mastering C# and diving deep into the world of front-end development. 
-
-  What drives me? It's the thrill of solving complex problems, the joy of bringing ideas to life through code, and a relentless quest for knowledge. As a young coder, I am constantly exploring new technologies and techniques, aiming to blend the art of programming with practical solutions. 
-
+  Hello, I'm Agastya, a high school student with a profound passion for programming and an ambition to excel in competitive programming. My journey began with Java and has since expanded to mastering C# and diving deep into the world of front-end development. <br><br>  What drives me? It's the thrill of solving complex problems, the joy of bringing ideas to life through code, and a relentless quest for knowledge. As a young coder, I am constantly exploring new technologies and techniques, aiming to blend the art of programming with practical solutions. 
+<br><br>
   My adventure in coding is more than just writing efficient algorithms; it’s about creating impactful experiences, whether it’s through a user-friendly IDE or an automated tool that simplifies daily tasks. I believe in writing code that not only works but also innovates and inspires.
-
+<br><br>
   As I navigate through my high school years, I'm fueled by the dream of making a mark in the tech world. Every project I undertake is a step towards that goal, a piece of my journey in coding. Join me in this adventure, where creativity meets technology, and every line of code tells a story.
 </div>
 
