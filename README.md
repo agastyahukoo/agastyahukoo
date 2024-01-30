@@ -79,12 +79,7 @@
   📖 Currently exploring computer science topics in high school, mainly Data Structures in Java.
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agastyahukoo&show_icons=true&theme=github_dark" alt="Agastya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agastyahukoo&theme=dark" alt="Agastya's GitHub Streak" />
-</div>
-
-<table>
+<table style="border: none;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=agastyahukoo&show_icons=true&theme=github_dark" alt="Agastya's GitHub Stats" />
@@ -94,6 +89,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <div align="center">
