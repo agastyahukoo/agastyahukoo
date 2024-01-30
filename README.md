@@ -84,6 +84,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agastyahukoo&theme=dark" alt="Agastya's GitHub Streak" />
 </div>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=agastyahukoo&show_icons=true&theme=github_dark" alt="Agastya's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=agastyahukoo&theme=dark" alt="Agastya's GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
   <h4>"Coding with Passion, Innovating for Tomorrow"</h4>
 </div>
