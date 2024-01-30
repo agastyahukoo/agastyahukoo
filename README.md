@@ -79,6 +79,8 @@
   📖 Currently exploring computer science topics in high school, mainly Data Structures in Java.
 </div>
 
+
+
 <table style="border: none;">
   <tr>
     <td>
