@@ -2,8 +2,6 @@
   <img src="https://avatars.githubusercontent.com/u/136306593?v=4" width="200" height="200" style="border-radius:50%">
 </div>
 
----
-
 <div align="center">
   <h1>Agastya Hukoo</h1>
   <h3>Competitive Programmer | Java & C# Enthusiast | Front-End Developer</h3>
@@ -26,8 +24,6 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
-
----
 
 ## About Me
 
