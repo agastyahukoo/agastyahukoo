@@ -48,14 +48,14 @@
 
 <div align="center">
   <details>
-    <summary><b>Carbon - The Frontend Innovator 🚀</b></summary>
+    <summary><b>Carbon</b></summary>
     <p>
       Carbon redefines the frontend development experience. It's an intuitive IDE offering real-time HTML editing and a host of customizable themes, catering to both novice and seasoned developers.
     </p>
   </details>
 
   <details>
-    <summary><b>Radon - Automation Master 🤖</b></summary>
+    <summary><b>Radon</b></summary>
     <p>
       Radon is a versatile, open-source automated mouse clicker for Windows. It boasts a user-friendly interface, customizable settings, and is designed to streamline and automate repetitive tasks efficiently.
     </p>
