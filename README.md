@@ -32,51 +32,6 @@
   As I navigate through my high school years, I'm fueled by the dream of making a mark in the tech world. Every project I undertake is a step towards that goal, a piece of my journey in coding. Join me in this adventure, where creativity meets technology, and every line of code tells a story.
 </div>
 
-## Skills Showcase
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-</div>
-
-## Featured Projects
-
-<div align="center">
-  <details>
-    <summary><b>Carbon</b></summary>
-    <p>
-      Carbon redefines the frontend development experience. It's an intuitive IDE offering real-time HTML editing and a host of customizable themes, catering to both novice and seasoned developers.
-    </p>
-  </details>
-
-  <details>
-    <summary><b>Radon</b></summary>
-    <p>
-      Radon is a versatile, open-source automated mouse clicker for Windows. It boasts a user-friendly interface, customizable settings, and is designed to streamline and automate repetitive tasks efficiently.
-    </p>
-  </details>
-</div>
-
-## Professional Experience
-
-### Front End Web Developer (3 months)
-
-- Transformed web interfaces into responsive and dynamic experiences, enhancing user engagement.
-- Utilized HTML5, CSS3, JavaScript, and React.js to build and maintain cutting-edge web applications.
-- Instrumental in SEO optimization, leading to a significant increase in web traffic and user interaction.
-- Worked closely with the marketing team to develop high-quality digital ad materials, ensuring brand integrity and consistency.
-
-## Educational Journey
-
-<div align="center">
-  📖 Currently exploring computer science topics in high school, mainly Data Structures in Java.
-</div>
-
 <br>
 
 <table style="border-collapse: collapse; border: none;">
