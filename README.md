@@ -1,6 +1,3 @@
- 
-I'm Agastya, a student passionate about programming.
-
 # About Me
 
 - I'm currently working on the Z-Tek_Cubesat_ADCS, a project focused on developing a Cubesat with a robust ADCS system, under the ASLS initiative. 
