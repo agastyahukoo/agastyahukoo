@@ -4,7 +4,7 @@
 - I'm actively learning Arduino for hardware interfacing and Swift for iOS development.
 - Feel free to ask me about Java, basics of programming, or any initial queries you have about getting into coding!
 
-## Skills
+## Skills 
 
 - **Languages**: Java, C, C++, Python
 - **Tools**: Currently enhancing my skills in Solidworks and Fusion 360 for CAD and 3D modeling.
